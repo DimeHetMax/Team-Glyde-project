@@ -15,6 +15,7 @@
 @import url('./footer.css');
 
 /* Pages */
+@import url('./home-page.css');
 @import url('./page-about.css');
 @import url('./page-contacts.css');
 @import url('./page-gallery.css');
