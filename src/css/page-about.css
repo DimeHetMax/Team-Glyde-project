@@ -1,0 +1,11 @@
+.hero-home-img {}
+
+.home-img-wrapper {
+    margin: 0 auto;
+    max-width: 315px;
+}
+
+.about-button-wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
