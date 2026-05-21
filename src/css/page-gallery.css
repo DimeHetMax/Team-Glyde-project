@@ -6,7 +6,7 @@
     box-sizing: border-box;
 } */
 
-body {
+.gallery-page {
   font-family: "Cormorant Upright", serif; 
      color: white;
     background-image: url("../img/images/bg_image.png");
@@ -33,7 +33,7 @@ body {
     --meta_container: #0C0B08;
 }
 
-h1{
+.gallery-page h1{
      font-size: 64px;
   font-weight: bold;
   margin-bottom: 15px;
@@ -155,5 +155,4 @@ h1{
 }  
 
 }
-
 
